@@ -1,4 +1,4 @@
-CID_593_Athena_Commando_F_SoccerZombieA, 1500
+CID_753_Athena_Commando_F_Hostile, 1
 BID_101_BlingFemale, 500
 CID_595_Athena_Commando_F_SoccerZombieC, 1500
 na
